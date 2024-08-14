@@ -1,4 +1,4 @@
-print("calculadora piton \n    hecha por fatpenguin35 \n \n")
+print("calculadora piton \n    hecha por fatpenguin35 \n \n no admite decimales \n \n ")
 
 try:
 	print("seleccione la operacion qje desee \n 1: Suma \n 2: Resta \n 3: Multiplicacion \n 4: Divison \n \n")
